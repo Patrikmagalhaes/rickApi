@@ -1,0 +1,21 @@
+.times-nome {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+
+
+.time-foto {
+    margin-top: 16px;
+}
+img{
+    border-radius: 100%;
+}
+.container {
+    background-color: #fff;
+    padding-top: 3%;
+    padding-left: 3%;
+}
+a{
+    text-decoration: none;
+}
